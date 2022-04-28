@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    border: 1px solid rgb(247, 201, 201);
+    background-image: url(https://img.freepik.com/fotos-gratis/doces-coloridos-de-rosa-em-fundo-rosa-3d-render-ideia-de-conceito-de-dia-dos-namorados_40193-597.jpg);
+    background-size: auto;
+    background-position-y:top;
+    background-color: #f3ebeb !important;
+    color:rgb(90, 4, 71);
+    font-family: 'Orelega One', cursive !important;
+    font-size: 200%;
+    font-weight: 200;
+    padding: 3%;
+    width: 100%;
+    max-height: 20%;
+}
