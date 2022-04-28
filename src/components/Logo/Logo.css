@@ -18,3 +18,9 @@ figcaption{
     color: rgb(104, 101, 101);
     font-size: 120%;
 }
+
+@media (max-width: 480px){
+    img{
+        min-width: 50%;
+    }
+}
